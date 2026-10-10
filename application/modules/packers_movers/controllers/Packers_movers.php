@@ -39,8 +39,8 @@ class Packers_movers extends MX_Controller
     { 
         $seo = array(
             "Purnia" => array(
-                "title" => "Packers and Movers in Purnia, Bihar | Best Packing and Moving Company ",
-                "desc" => "Find the best packers and movers in Purnia, Bihar. Get reliable household shifting and vehicle transport services at affordable rates."
+                "title" => "Purnia Packers and Movers | Best Packing and Moving Company ",
+                "desc" => "Hire top-rated packers and movers in $city, $state. " . $this->comp['company3'] . " offers reliable household shifting and vehicle transport services at affordable rates."
             ),
              "Bhagalpur" => array(
                 "title" => "Packers and Movers in Bhagalpur, Bihar | Best Packing and Moving Company ",

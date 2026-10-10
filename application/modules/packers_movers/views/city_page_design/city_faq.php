@@ -70,6 +70,55 @@ These rates are only a guide. The final quote depends on your goods, the distanc
             "a" => "A local move usually finishes within a few hours or the same day. For long distance moves, transit takes about 2 to 5 days depending on the distance."
           ]
         ];
+    }elseif (strtolower(trim($state)) === 'bihar') {
+      $faqs = [
+        [
+          "q" => "Can monsoon floods affect a move from $city?",
+          "a" => "They can. Rain is heavy in Bihar from June to September, and rivers in many areas tend to overflow. Loading gets slower in the wet, and some roads may end up under water. Booking early helps, and so does covering your goods properly."
+        ],
+        [
+          "q" => "Can winter fog delay a move from $city?",
+          "a" => "It might. In December and January the fog over Bihar can get thick, and trucks on the highway don't move quickly in it. For a long-distance move in these months, a couple of spare days in the plan is probably sensible."
+        ],
+        [
+          "q" => "Can hot summer weather make moving from $city harder?
+",
+          "a" => "Possibly, yes, mainly between April and June, when the loo blows through and afternoons get very hot. Crews tire fast while packing and lifting in that heat, so many people start at sunrise and finish the heavy work before noon."
+        ],
+        [
+          "q" => "Do river crossings add time to a move from $city?",
+          "a" => "They may. The Ganga is crossed by bridge, and on busy days a queue can build up at the approach. Keeping a little slack in the schedule tends to save a lot of worry."
+        ],
+        [
+          "q" => "Can narrow lanes or parking cause problems when moving from $city?",
+          "a" => "In crowded areas, it's quite possible. If the truck can't stop near the building, the movers might carry your things a fair distance by hand, or load them onto a smaller vehicle for the last stretch."
+        ],
+          [
+          "q" => "Can building access affect a move from $city?
+",
+          "a" => "It can. Stairs, small lifts and narrow doors all add to the time spent loading and unloading. Letting the team know about these before moving day usually helps.
+"
+        ],
+          [
+          "q" => "Does the moving date matter when shifting from $city?",
+          "a" => "Chhath and Diwali bring a rush of travellers to Bihar, and the roads and trains fill up for days around both. Slots near those dates go quickly, so if your move falls close to either festival, it's best to book well ahead."
+        ],
+          [
+          "q" => "How long does a move from $city take?",
+          "a" => "A local move is usually done within a few hours, or by the end of the day. For long distances, it generally takes somewhere between 2 and 5 days, depending on how far you're going.
+"
+        ],
+            [
+          "q" => "Can I move my car or bike from $city?",
+          "a" => "Yes. Make My Shift carries cars and bikes in open or enclosed carriers, and the vehicles are secured with safety harnesses.
+"
+        ],
+              [
+          "q" => "What items can't be moved?",
+          "a" => "Hazardous materials, inflammable substances and compressed gases can't be carried. Perishable food, cash, jewellery and personal legal documents are also left off the list..
+"
+        ],
+      ];  
     } else {
       $faqs = [
         [

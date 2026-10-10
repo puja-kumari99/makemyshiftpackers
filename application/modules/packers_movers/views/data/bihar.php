@@ -1,9 +1,14 @@
 <?php
 //SELECT name as nm,latitude as lat,longitude as lon,state_code as sc FROM `cities` WHERE state_code='BR'
 $cities = array(
-        array('nm' => 'Patna', 'lat' => '25.41667000', 'lon' => '85.16667000', 'sc' => 'BR'),
-        array('nm' => 'Amarpur', 'lat' => '25.03967000', 'lon' => '86.90247000', 'sc' => 'BR'),
-        array('nm' => 'Araria', 'lat' => '26.20000000', 'lon' => '87.40000000', 'sc' => 'BR'),
+         array('nm' => 'Darbhanga', 'lat' => '25.41667000', 'lon' => '85.16667000', 'sc' => 'BR'),
+        array('nm' => 'Muzaffarpur', 'lat' => '25.21855000', 'lon' => '85.73320000', 'sc' => 'BR'),
+       array('nm' => 'Samastipur', 'lat' => '25.59410000', 'lon' => '85.13760000', 'sc' => 'BR'),
+       array('nm' => 'Sitamarhi', 'lat' => '26.59700000', 'lon' => '85.48900000', 'sc' => 'BR'),
+       array('nm' => 'Madhubani ', 'lat' => '25.36900000', 'lon' => '86.47300000', 'sc' => 'BR'),
+        // array('nm' => 'Patna', 'lat' => '25.41667000', 'lon' => '85.16667000', 'sc' => 'BR'),
+        // array('nm' => 'Amarpur', 'lat' => '25.03967000', 'lon' => '86.90247000', 'sc' => 'BR'),
+        // array('nm' => 'Araria', 'lat' => '26.20000000', 'lon' => '87.40000000', 'sc' => 'BR'),
         // array('nm' => 'Arrah', 'lat' => '25.55629000', 'lon' => '84.66335000', 'sc' => 'BR'),
         // array('nm' => 'Arwal', 'lat' => '25.16158000', 'lon' => '84.69040000', 'sc' => 'BR'),
         // array('nm' => 'Asarganj', 'lat' => '25.15046000', 'lon' => '86.68639000', 'sc' => 'BR'),
