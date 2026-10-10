@@ -16,6 +16,10 @@ html, body {
     max-width: 100% !important;
 }
 
+body {
+    background-color: #002569;
+}
+
 :root {
     --brand-navy: #002569;
     --brand-navy-dark: #041224;
@@ -14100,7 +14104,6 @@ a.touch-value-text:hover {
 .pm-city-trust-list small {
   color: #374151;
 }
-
 
 
 

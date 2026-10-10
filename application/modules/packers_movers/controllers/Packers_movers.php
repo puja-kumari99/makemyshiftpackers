@@ -53,9 +53,17 @@ class Packers_movers extends MX_Controller
             }
         }
         //edit by Arshad 15-11-2024
-        return array(
-            'title' => "Best Packers and Movers in $city, $state | " . $this->comp['company3'],
-            "desc" => "Hire top-rated packers and movers in $city, $state. " . $this->comp['company3'] . " offers reliable household shifting and vehicle transport services at affordable rates."
+        // return array(
+        //     'title' => "Best Packers and Movers in $city, $state | " . $this->comp['company3'],
+        //     "desc" => "Hire top-rated packers and movers in $city, $state. " . $this->comp['company3'] . " offers reliable household shifting and vehicle transport services at affordable rates."
+        // );
+
+        // 10/10/2026
+        return array (
+'title'=>"MakeMyShifiting packers and movers in $city| Packing And Moving Company | 93636 39191",
+
+"desc" => "MakeMyShifiting Packers and Movers is a trusted choice for packers and movers in $city, offering affordable home shifting, office relocation, car and bike transportation, professional packing, and secure storage services."
+
         );
     }
     function city($state = 'Bihar', $city = 'Patna')
