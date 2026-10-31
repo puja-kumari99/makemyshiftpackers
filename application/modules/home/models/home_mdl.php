@@ -21,7 +21,7 @@ class Home_mdl extends CI_Model{
 	        $this->email->from($admin_email);
 	        $this->email->subject('Thanks for requesting a Quotation');
 	        $this->email->message("Hi $client_email,<br> Thanks for requesting a Quotation from Niram Paint  <i>(https://www.niram.com/)</i>. We will get back to you soon.<br><br><br>Regards,<br>Niram Paint ($admin_email)<br>
-	            <img src='".base_url('assets/img/logo/logo.png')."' height='120px'>");
+	            <img src='".base_url('assets/img/logo/makemyshiftlogo.png')."' height='120px'>");
 	        $this->email->send();
 	
 	        //admin mail

@@ -89,7 +89,7 @@
                                 "name" => $company3,
                                 "logo" => [
                                     "@type" => "ImageObject",
-                                    "url" => base_url('assets/img/logo/logo.png')
+                                    "url" => base_url('assets/img/logo/makemyshiftlogo.png')
                                 ]
                             ],
                             "description" => substr(strip_tags(!empty($b->description) ? $b->description : @$b->content), 0, 160) . '...'

@@ -63,7 +63,7 @@
         <div class="col-12 col-md-6 col-lg-3 footer-col footer-brand-col">
           <a href="<?= site_url() ?>" class="footer-logo-card-wrap" title="<?= htmlspecialchars($company3) ?>">
             <div class="footer-logo-card">
-              <img src="<?= base_url('assets/img/logo/logo.png') ?>" alt="<?= htmlspecialchars($company3) ?>" class="footer-logo-img" width="167" height="50">
+              <img src="<?= base_url('assets/img/logo/makemyshiftlogo.png') ?>" alt="<?= htmlspecialchars($company3) ?>" class="footer-logo-img" width="167" height="50">
             </div>
           </a>
           <p class="footer-brand-tagline">

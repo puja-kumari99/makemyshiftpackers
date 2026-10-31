@@ -189,7 +189,7 @@
         "name": "<?= $company3 ?>",
         "logo": {
             "@type": "ImageObject",
-            "url": "<?= base_url('assets/img/logo/logo.png') ?>"
+            "url": "<?= base_url('assets/img/logo/makemyshiftlogo.png') ?>"
         }
     },
     "description": "<?= addslashes(substr(strip_tags(@$query[0]->description), 0, 160)) ?>",

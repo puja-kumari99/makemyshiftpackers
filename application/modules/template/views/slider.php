@@ -50,16 +50,16 @@
             <div class="trust-label">Delivery</div>
           </div>
 
-          <!-- Badge 3: 10K+ Happy Customers -->
-          <div class="hero-trust-item text-center">
+          <!-- Badge 3: Track Shipment -->
+          <a href="<?= site_url('tracking') ?>" class="hero-trust-item hero-trust-link text-center" aria-label="Track your shipment">
             <div class="trust-badge-icon">
               <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
-                <path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/>
+                <path d="M3 5.5A1.5 1.5 0 0 1 4.5 4h10A1.5 1.5 0 0 1 16 5.5V8h2.25a1.5 1.5 0 0 1 1.2.6l1.25 1.67v5.23A1.5 1.5 0 0 1 19.2 17H18a3 3 0 0 1-5.8 0H9.8A3 3 0 0 1 4 17H3.5A1.5 1.5 0 0 1 2 15.5v-9A1 1 0 0 1 3 5.5ZM16 10v5h.2a3 3 0 0 1 5.6 0h.4v-4.4L20 10h-4ZM6.9 18.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm8.2 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"/>
               </svg>
             </div>
-            <div class="trust-value">10K+</div>
-            <div class="trust-label">Happy Customers</div>
-          </div>
+            <div class="trust-value">Track Now</div>
+            <div class="trust-label">Shipment Status</div>
+          </a>
         </div>
       </div>
 
