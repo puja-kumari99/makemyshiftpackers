@@ -39,12 +39,16 @@ class Packers_movers extends MX_Controller
     { 
         $seo = array(
             "Purnia" => array(
-                "title" => "Purnia Packers and Movers | Best Packing and Moving Company ",
+                "title" => "Purnia Packers and Movers | Call Us 93636 39191 ",
                 "desc" => "Hire top-rated packers and movers in $city, $state. " . $this->comp['company3'] . " offers reliable household shifting and vehicle transport services at affordable rates."
             ),
              "Bhagalpur" => array(
                 "title" => "Packers and Movers in Bhagalpur, Bihar | Best Packing and Moving Company ",
                 "desc" => "Find the best packers and movers in Bhagalpur, Bihar. Get reliable household shifting and vehicle transport services at affordable rates."
+            ),
+            "Muzaffarpur" => array(
+                "title" => "Packers and Movers in Muzaffarpur | Make My Shift ",
+                "desc" => "Looking for best affordable Packers and Movers in Muzaffarpur? Make My Shift offers reliable home shifting,office relocation,car and bike transportation with professional packers and loading and safe delivery."
             ),
         );
         foreach ($seo as $k => $s) {

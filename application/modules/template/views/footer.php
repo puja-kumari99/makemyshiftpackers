@@ -153,12 +153,23 @@
         <div class="col-12 col-md-6 col-lg-3 footer-col footer-touch-col">
           <span class="footer-col-heading">Get In Touch</span>
           <ul class="footer-touch-list">
+               <li class="footer-touch-item">
+              <div class="touch-icon-wrap">
+                <i class="bi bi-geo-alt"></i>
+              </div>
+              <div class="touch-content">
+                <span class="touch-label">Our Location</span>
+                <span class="touch-value-text">
+                  <?= htmlspecialchars(!empty($corporate_address) ? $corporate_address : $address) ?>
+                </span>
+              </div>
+            </li>
             <li class="footer-touch-item">
               <div class="touch-icon-wrap">
                 <i class="bi bi-telephone"></i>
               </div>
               <div class="touch-content">
-                <span class="touch-label">Office Contact</span>
+                <span class="touch-label">Our Contact</span>
                 <?php if (!empty($phone1)): ?>
                 <a href="<?= $phonehtml1 ?>" class="touch-value-highlight">
                   <?= htmlspecialchars($phone1) ?>
@@ -184,17 +195,7 @@
               </div>
             </li>
 
-            <li class="footer-touch-item">
-              <div class="touch-icon-wrap">
-                <i class="bi bi-geo-alt"></i>
-              </div>
-              <div class="touch-content">
-                <span class="touch-label">Corporate Office</span>
-                <span class="touch-value-text">
-                  <?= htmlspecialchars(!empty($corporate_address) ? $corporate_address : $address) ?>
-                </span>
-              </div>
-            </li>
+         
           </ul>
         </div>
 

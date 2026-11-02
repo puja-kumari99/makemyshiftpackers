@@ -80,9 +80,7 @@ $htmlcontent3="<h3>Why Bhagalpur Needs Local Planning</h3>
 <p>The older parts of the city, such as Khalifabagh, Ghantaghar, Kotwali and Bhikhanpur, have narrow lanes and crowded markets. A large truck often cannot reach the door, so we use a smaller vehicle for the first leg or carry goods by hand to the main road. Roads near Adampur and the main chowks get busy in the morning, and we plan pickup times around that. The newer colonies at Barari, Mojahidpur and Jagdishpur have wider roads, but trips from the old market area take longer, so we factor the extra travel time into vehicle planning.</p>
 <p>Bhagalpur also has its own work areas. The silk weavers of Nathnagar, the university and medical college areas, and bank and government offices need moves that do not stop daily work. During the rains, low areas near the river can become hard to reach, so we check the route before the truck leaves. Moves to Sultanganj, Naugachhia and Kahalgaon depend on the road and bridge traffic, and we plan the schedule with you in advance.</p>
 <h3>Where Does Our Bhagalpur Team Provide Services</h3>
-<p>
-Adampur,
-Khalifabagh,
+<p>Adampur,Khalifabagh,
 Ghantaghar,
 Kotwali,
 Bhikhanpur,
@@ -102,12 +100,292 @@ Kahalgaon</p>
 $htmlcontent4="<h4>Recent Move</h4>
 <p>A family living near Adampur Chowk was shifting a 2BHK to Barari. The lane outside the old house was too narrow for our truck, so the crew packed the furniture and kitchen items first and carried the loaded boxes to the main road in small groups. The truck was loaded by afternoon and the goods reached the new home before evening, where the family checked everything with our team.</p>
 ";
-
-
 $htmlcontent5="<h4>Book Make My Shift in Bhagalpur</h4>
 <p><strong>Call us on +91 7209532593 or +91 9363639191, or message us on WhatsApp at +91 8298181018.</strong> You can also write to makemyshiftmovers@gmail.com. Tell us where you are moving from, where you are going and when, and we will send you a quote.</p>
 ";
 
+}elseif (strtolower(trim($city)) === 'muzaffarpur') {
+  $htmlcontent = "<h2>Packers and Movers in Muzaffarpur,Make My Shift</h2>
+<p>
+Muzaffarpur grows around the Budhi Gandak, and plenty of people simply call it the lychee city of Bihar. The old commercial core, with its crowded markets and tight lanes, sits close to the busy roads that lead out towards Patna and Nepal. Newer colonies spread further out. Make My Shift plans Muzaffarpur moves with the support of its corporate office in Bhagalpur, Bihar, and brings 9+ years of moving experience to every job.
+</p>
+<p>Make My Shift Packers and Movers Pvt. Ltd. offers packing and moving in $city for local, intercity, and interstate moves across India. The company is based in Bhagalpur, Bihar, and handles:</p>
+<ul>
+    <li><a href='" . site_url('home-relocation') . "' class='text-dark text-decoration-none'>Home relocation
+</a></li>
+
+    <li><a href='" . site_url('office-relocation') . "' class='text-dark text-decoration-none'>Office relocation
+</a></li>
+
+    <li><a href='" . site_url('car-transportation') . "' class='text-dark text-decoration-none'>Car transportation</a></li>
+
+    <li><a href='" . site_url('bike-transportation') . "' class='text-dark text-decoration-none'>Bike transportation</a></li>
+
+    <li><a href='" . site_url('packing-and-moving') . "' class='text-dark text-decoration-none'>Local and domestic moving
+</a></li>
+
+    <li><a href='" . site_url('loading-unloading') . "' class='text-dark text-decoration-none'>Loading and unloading</a></li>
+</ul>
+<p>Every plan is built around the goods, the distance and the conditions at the pickup address.</p>
+
+
+
+";
+$htmlcontent1 = "
+
+<!-- Content Cards Container -->
+<div class='row g-3 my-4'>
+
+  <!-- 1. What Moving Services Can You Get from Packers and Movers in $city? -->
+  <div class='col-12'>
+    <div class='service-feature-card service-card-blue'>
+      <div class='service-feature-card-header'>
+        <div class='service-feature-card-icon'>
+          <i class='bi bi-box-seam-fill'></i>
+        </div>
+        <h3 class='service-feature-card-title'>Local, Intercity and Interstate Moves from $city</h3>
+      </div>
+      <div class='pm-city-prose'>
+        <p>
+      Every move has its own requirements.
+        </p>
+        <ul class='pm-city-checklist my-3'>
+          <li><i class='bi bi-check-circle-fill'></i> <span><strong>Local move in $city:</strong> usually finished within a few hours or the same day.</span></li>
+          <li><i class='bi bi-check-circle-fill'></i> <span><strong>Intercity move within Bihar:</strong> means a longer road journey, and on some routes a crossing over the Ganga.
+</span></li>
+          <li><i class='bi bi-check-circle-fill'></i> <span><strong>Interstate move:</strong> needs planning around the pickup and delivery locations, the shipment size and the route.</span></li>
+       
+        </ul>
+        <p class='mb-0'>
+         Make My Shift helps with moving household goods, office equipment, cars, bikes, and other items. Share your pickup and destination details, and you'll get an estimate for your move
+        </p>
+      </div>
+    </div>
+  </div>
+";
+
+$htmlcontent2="
+<h3>Who We Are and What We Do in Muzaffarpur</h3>
+<p>Ask for Make My Shift in Muzaffarpur and you'll get a moving team that has spent 9+ years on household and office moves. Director Alok Kumar Chaudhary leads the company. Homes, offices, cars and bikes all come under what we handle, along with packing, loading, unloading and storage for those who need a place to keep their goods for a while.</p>
+<p>Make My Shift is IBA approved and ISO 9001:2015 certified, and we hold GST and Udyam registrations too. Customers have rated us 4.9/5. Our corporate office at C/O Dr B.P Singh, Rani Chandrawati Hata, Adampur Chowk, Swami Vivekanand Path, Bhagalpur, Bihar 812001 coordinates our Muzaffarpur moves. </p>
+<h3>Why People in Muzaffarpur Pick Make My Shift</h3>
+<ul>
+<li>9+ years of experience in packing and moving</li>
+<li>10K+ happy customers and a 4.9/5 rating</li>
+<li>IBA approved and ISO 9001:2015 certified</li>
+<li>GST registered and Udyam registered</li>
+<li>Honoured with the Jagran Icon Award Bihar</li>
+<li>Clear pricing with no hidden charges</li>
+<li>Packing planned by the size and material of each item</li>
+<li>Transit insurance options for valuable goods</li>
+<li>24/7 support and a tracking page for your shipment</li>
+</ul>
+
+";
+$htmlcontent3="<h3>How Muzaffarpur's Lanes and Markets Shape a Move</h3>
+<p>Older Muzaffarpur is mostly narrow lanes and houses packed close together. The big truck often halts on the main road, a few doors short. From there the crew walks everything in. Market hours come into it as well, and a loading slot may start later than you'd hoped. Newer colonies on the outer side are usually easier on access, though some roads may turn muddy after rain.
+The business side has its own needs. Bag and textile units crowd Bela Industrial Area. Out at Kanti, there's the NTPC thermal power station. Moving from places like these rarely means just furniture. Think stock, files and machines, and now and then a desk that takes four people to lift. We'd rather see the place before promising a date.</p>
+<h3>Areas We Move From and To in Muzaffarpur</h3>
+<p><a href='" . site_url('saraiyaganj-packers-movers-bihar') . "' class='text-dark text-decoration-none'>Saraiyaganj</a>,
+<a href='" . site_url('motijheel-packers-movers-bihar') . "' class='text-dark text-decoration-none'>Motijheel</a>,
+<a href='" . site_url('club-road-packers-movers-bihar') . "' class='text-dark text-decoration-none'>Club Road</a>,
+<a href='" . site_url('kalyani-chowk-packers-movers-bihar') . "' class='text-dark text-decoration-none'>Kalyani Chowk</a>,
+<a href='" . site_url('mithanpura-packers-movers-bihar') . "' class='text-dark text-decoration-none'>Mithanpura</a>,
+<a href='" . site_url('juran-chhapra-packers-movers-bihar') . "' class='text-dark text-decoration-none'>Juran Chhapra</a>,
+<a href='" . site_url('brahmpura-packers-movers-bihar') . "' class='text-dark text-decoration-none'>Brahmpura</a>,
+<a href='" . site_url('zero-mile-packers-movers-bihar') . "' class='text-dark text-decoration-none'>Zero Mile</a>,
+<a href='" . site_url('gobarsahi-packers-movers-bihar') . "' class='text-dark text-decoration-none'>Gobarsahi</a>,
+<a href='" . site_url('mushahari-packers-movers-bihar') . "' class='text-dark text-decoration-none'>Mushahari</a>,
+<a href='" . site_url('ahiyapur-packers-movers-bihar') . "' class='text-dark text-decoration-none'>Ahiyapur</a>,
+<a href='" . site_url('maripur-packers-movers-bihar') . "' class='text-dark text-decoration-none'>Maripur</a>,
+<a href='" . site_url('ramna-packers-movers-bihar') . "' class='text-dark text-decoration-none'>Ramna</a>,
+<a href='" . site_url('bela-industrial-area-packers-movers-bihar') . "' class='text-dark text-decoration-none'>Bela Industrial Area</a>,
+<a href='" . site_url('kanti-packers-movers-bihar') . "' class='text-dark text-decoration-none'>Kanti</a></p>
+<h3>A Muzaffarpur Move We Handled</h3>
+<p>One family in Brahmpura was leaving Bihar and wanted everything on the truck before the afternoon rush. The beds and wardrobe went first, and the kitchen things came last. Their lane was too tight, so the truck stayed on the main road and the crew carried each load across. Loading wrapped up on time anyway.</p>
+
+";
+$htmlcontent4="<h3>What Moving Feels Like Across Muzaffarpur</h3>
+
+<p class='fw-bold'>Saraiyaganj: Market Streets and Shop Hours</p>
+<p>One of the city's main trading areas, and the road towards Zero Mile can get jammed through the day. We plan loading around shop hours.</p>
+<p class='fw-bold'>Motijheel: Tight Stops on a Busy Road</p>
+<p>A busy commercial area, so stopping space may be tight. We keep each stop short.</p>
+<p class='fw-bold'>Club Road: Shops and Offices Side by Side</p>
+<p>Shops and offices sit next to each other here. Parking can be a problem, so early loading often works better.</p>
+<p class='fw-bold'>Mithanpura: Homes and Business Spaces Together</p>
+<p>A mix of homes and business spaces. We check the lane and the floor before booking the vehicle.</p>
+<p class='fw-bold'>Juran Chhapra: Narrow Lanes in the Centre</p>
+<p>A well-known part of the city centre. Lanes can be narrow in places, and the crew may carry goods the last stretch.</p>
+<p class='fw-bold'>Brahmpura: Older Homes and Access Checks</p>
+<p>A mostly residential area with many older homes. We confirm the access first, so the right vehicle comes.</p>
+<p class='fw-bold'>Zero Mile: Planning Around Junction Traffic</p>
+<p>One of the busiest junctions in the city. Traffic can build up here, so we avoid peak hours when we can.</p>
+<p class='fw-bold'>Ahiyapur: Rain and River Water</p>
+<p>Close to the Budhi Gandak, where water has risen in some rainy seasons. If you're moving in the monsoon, we suggest keeping a spare day.</p>
+<p class='fw-bold'>Bela Industrial Area: Unit and Factory Moves</p>
+<p>A hub for bag, textile and leather units. We survey the load first, then plan the vehicle and the crew.</p>
+<p class='fw-bold'>Kanti: Moves Near the Power Station</p>
+<p>Home to the NTPC thermal power station. We plan these moves around the distance and the goods.</p>
+<h3>Moving From Muzaffarpur to Other Cities</h3>
+<p>We handle local, regional and long-distance moves from Muzaffarpur. The route, vehicle and delivery schedule are planned around the distance, weather and road conditions.</p>
+<div class='row g-3 mt-1'>
+  <div class='col-12 col-md-6'>
+    <div class='border rounded-3 p-3 h-100'>
+      <h4 class='h5 fw-bold mb-3'>Cities Nearby</h4>
+    <p class='mb-0 text-secondary'>Gorakhpur <i class='bi bi-arrow-right text-danger mx-2'></i> Varanasi <i class='bi bi-arrow-right text-danger mx-2'></i> Ballia</p>
+    </div>
+  </div>
+  <div class='col-12 col-md-6'>
+    <div class='border rounded-3 p-3 h-100'>
+      <h4 class='h5 fw-bold mb-3'>Regional Routes</h4>
+    <p class='mb-0 text-secondary'>Ranchi <i class='bi bi-arrow-right text-danger mx-2'></i> Jamshedpur <i class='bi bi-arrow-right text-danger mx-2'></i> Kolkata <i class='bi bi-arrow-right text-danger mx-2'></i> Siliguri</p>
+    </div>
+  </div>
+</div>
+<h4 class='h5 fw-bold mt-4 mb-3'>Far-Away Routes From Muzaffarpur</h4>
+<div class='row g-3'>
+  <div class='col-12 col-sm-6 col-lg-3'>
+    <div class='border-start border-danger border-3 ps-3'>
+      <p class='fw-semibold mb-1'>North India</p>
+      <ul class='list-unstyled text-secondary mb-0'>
+        <li><i class='bi bi-arrow-right text-danger me-2'></i>Delhi NCR</li>
+        <li><i class='bi bi-arrow-right text-danger me-2'></i>Lucknow</li>
+        <li><i class='bi bi-arrow-right text-danger me-2'></i>Jaipur</li>
+        <li><i class='bi bi-arrow-right text-danger me-2'></i>Chandigarh</li>
+      </ul>
+    </div>
+  </div>
+  <div class='col-12 col-sm-6 col-lg-3'>
+    <div class='border-start border-danger border-3 ps-3'>
+      <p class='fw-semibold mb-1'>West India</p>
+      <ul class='list-unstyled text-secondary mb-0'>
+        <li><i class='bi bi-arrow-right text-danger me-2'></i>Mumbai</li>
+        <li><i class='bi bi-arrow-right text-danger me-2'></i>Pune</li>
+        <li><i class='bi bi-arrow-right text-danger me-2'></i>Ahmedabad</li>
+      </ul>
+    </div>
+  </div>
+  <div class='col-12 col-sm-6 col-lg-3'>
+    <div class='border-start border-danger border-3 ps-3'>
+      <p class='fw-semibold mb-1'>South India</p>
+      <ul class='list-unstyled text-secondary mb-0'>
+        <li><i class='bi bi-arrow-right text-danger me-2'></i>Bangalore</li>
+        <li><i class='bi bi-arrow-right text-danger me-2'></i>Hyderabad</li>
+        <li><i class='bi bi-arrow-right text-danger me-2'></i>Chennai</li>
+      </ul>
+    </div>
+  </div>
+  <div class='col-12 col-sm-6 col-lg-3'>
+    <div class='border-start border-danger border-3 ps-3'>
+      <p class='fw-semibold mb-1'>East India</p>
+      <ul class='list-unstyled text-secondary mb-0'>
+        <li><i class='bi bi-arrow-right text-danger me-2'></i>Guwahati</li>
+        <li><i class='bi bi-arrow-right text-danger me-2'></i>Bhubaneswar</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<p class='bg-light rounded-3 px-3 py-2 mt-4 mb-0'>Long routes usually take <strong>2 to 5 days</strong>, depending on distance, weather and road conditions.</p>
+<h3 class='mt-5'>What Our Customers Tell Us</h3>
+<div class='row g-4'>
+  <div class='col-12 col-md-4'>
+    <blockquote class='border-start border-danger border-3 ps-3 mb-0'>
+      <p>“Excellent service! The team was professional, polite and handled all my belongings with great care.”</p>
+      <footer class='small fw-semibold'>Priya Sharma, Bangalore</footer>
+    </blockquote>
+  </div>
+  <div class='col-12 col-md-4'>
+    <blockquote class='border-start border-danger border-3 ps-3 mb-0'>
+      <p>“Smooth and hassle-free experience from start to finish.”</p>
+      <footer class='small fw-semibold'>Rahul Mehta, Mumbai</footer>
+    </blockquote>
+  </div>
+  <div class='col-12 col-md-4'>
+    <blockquote class='border-start border-danger border-3 ps-3 mb-0'>
+      <p>“Great support and transparent pricing.”</p>
+      <footer class='small fw-semibold'>Sneha Iyer, Chennai</footer>
+    </blockquote>
+  </div>
+</div>
+";
+  $htmlcontent5 = "<h3>Problems That Can Occur While Moving From $city Across Bihar</h3>
+<p>Bihar's weather, rivers and roads can throw up a few problems on a moving day. Knowing them in advance helps.</p>
+
+<h4>Monsoon and Floods  </h4>
+<p>Heavy rain comes from June to September. Bihar floods easily. Rivers like Kosi, Gandak, and Bagmati rise every monsoon. North Bihar gets hit the most. Rain slows loading. Roads may go under water. Cover furniture, boxes, and electronics well. Keep a few extra days free.</p>
+<h4>Winter Fog  </h4>
+<p>December and January bring thick fog. Bihar is in a region where dense fog is common. Fog can stay for days. Highway driving becomes slow. Long moves need more time in these months.</p>
+<h4>Summer Heat  </h4>
+<p>Summers are very hot. Hot dry winds called loo blow from April to June. This happens mostly in south and west Bihar. Packing and lifting become tiring. Do heavy work early in the morning.</p>
+<h4>River Crossings </h4>
+<p>To cross the Ganga, you have to use a bridge. Traffic on the bridge can build up. This adds time to your move. At Patna, Mahatma Gandhi Setu carries NH 22 and NH 31 traffic. Keep some extra time in your plan.</p>
+<h4>Festival Season </h4> 
+<p>Chhath and Diwali bring many people back to Bihar. Roads and trains get crowded. Book early if your move is near these festivals.</p>
+  ";
+$htmlcontent6 ="
+<h3>Insurance for Moving from $city</h3>
+<h4>Goods Insurance</h4>
+<p>If you're moving valuable household or commercial goods, you can ask about insurance before the move starts.</p>
+<p><strong>Make My Shift</strong> offers goods insurance as part of their services. The cover you get depends on the shipment and the insurance terms.</p>
+<p>Before booking, it's a good idea to check:</p>
+<ul>
+<li>The declared value of your goods</li>
+<li>What the insurance actually covers</li>
+<li>The conditions that apply</li>
+<li>What to do if you ever need to make a claim</li>
+</ul>
+";
+
+
+
+
+
+
+
+
+
+
+
+
+  $htmlcontent7="
+
+
+
+  <!-- 6. What Should You Know Before Booking Packers and Movers Near Me in $city? -->
+  <div class='col-12'>
+    <div class='service-feature-card service-card-red'>
+      <div class='service-feature-card-header'>
+        <div class='service-feature-card-icon'>
+          <i class='bi bi-info-circle-fill'></i>
+        </div>
+        <h3 class='service-feature-card-title'>What Should You Know Before Booking Packers and Movers Near Me in {$city_name}?</h3>
+      </div>
+      <div class='pm-city-prose'>
+        <p>
+          If you are searching for <b>Packers and Movers Near Me</b> or <b>Relocating Services Near Me</b>, have a few basic details ready before making the call.
+        </p>
+        <p>
+          Tell the mover how many rooms you are shifting, mention bulky furniture and appliances, and provide the pickup and delivery locations. If there is a lift, staircase or parking limitation, mention that as well.
+        </p>
+        <p class='mb-0'>
+          It gives the moving team a much clearer picture of the work.
+        </p>
+      </div>
+    </div>
+  </div>
+
+</div>";
+
+$htmlcontent8 ="<h4>Short Trips Out of Muzaffarpur</h4>
+<span class='fw-bold'>Moves Inside the City</span>
+<p>A flat to a flat, a shop to a new shop, or an office up to another floor. Most of these wrap up in a few hours, or by the end of the day. How far apart the two places are matters, and so does the amount of stuff. Access at the pickup end and the drop end can stretch things too.</p>
+<h4>Plan Your Muzaffarpur Move With Make My Shift</h4>
+<p>Moving within Muzaffarpur or heading out of Bihar? Tell Make My Shift what's going and where it's headed.</p>
+<p><strong>Call us on +91 7209532593</strong></p>
+<p><strong>WhatsApp us on +91 9363639191</strong></p>
+<p><strong>Write to us at makemyshiftmovers@gmail.com</strong> </p>
+";
 
 
 }elseif (strtolower(trim($state)) === 'bihar') {

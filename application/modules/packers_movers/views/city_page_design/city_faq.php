@@ -44,13 +44,13 @@ What does a local shift within Purnia typically cost?
             "q" => "How much do packers and movers cost in Bhagalpur?",
 
             "a" => "The cost depends on the size of your home, the distance, the packing needed and the type of vehicle. These are indicative rates for local shifting in Bhagalpur:
-1 BHK: starts from around ₹7,000
-2 BHK: starts from around ₹9,000
-3 BHK: starts from around ₹15,000
-4 or 5 BHK: around ₹25,000-₹30,000
-Villa or bungalow: around ₹25,000-₹40,000
-For moves to other cities, the price goes up with the distance. A 1 BHK move starts at around ₹7,000 for up to 50 km and can go up to ₹35,000 for a move within 2,500 km
-These rates are only a guide. The final quote depends on your goods, the distance, the packing and your moving needs.
+     1 BHK: starts from around ₹7,000
+     2 BHK: starts from around ₹9,000
+    3 BHK: starts from around ₹15,000
+    4 or 5 BHK: around ₹25,000-₹30,000
+   Villa or bungalow: around ₹25,000-₹40,000
+   For moves to other cities, the price goes up with the distance. A 1 BHK move starts at around ₹7,000 for up to 50 km and can go up to ₹35,000 for a move within 2,500 km
+   These rates are only a guide. The final quote depends on your goods, the distance, the packing and your moving needs.
 "
           ],
           [
@@ -70,6 +70,39 @@ These rates are only a guide. The final quote depends on your goods, the distanc
             "a" => "A local move usually finishes within a few hours or the same day. For long distance moves, transit takes about 2 to 5 days depending on the distance."
           ]
         ];
+    }elseif (strtolower(trim($city)) === 'muzaffarpur') {
+      $faqs = [
+        [
+          "q" => "Is it okay to move from Juran Chhapra or Brahmpura in heavy rain?",
+          "a" => "Mostly yes. Keep a day or so spare, because a flooded road can hold the truck up. Let us know early and the plan gets changed around it."
+   ],
+   [
+    
+     "q" => "Do narrow lanes near Saraiyaganj and Motijheel slow down a move?",
+     "a" => "Do narrow lanes near Saraiyaganj and Motijheel slow down a move?
+They can. The truck halts at the nearest spot it can reach, and the crew walks the goods in from there. Early mornings usually go easier, with fewer people on the road.
+"
+   ],
+   [
+     "q" => "Can you handle office or unit moves in Bela Industrial Area?",
+     "a" => "Yes. First we visit and look at what's there, and the vehicle and crew size get decided after that, for files, furniture and equipment alike."
+   ],
+   [
+     "q" => "What do packers and movers charge in Muzaffarpur?",
+     "a" => "A 1 BHK local move usually lands between Rs. 7,000 and Rs. 11,000. For a 2 BHK it's Rs. 9,000 to Rs. 15,000, and a 3 BHK runs Rs. 15,000 to Rs. 18,000. The floor level, lift availability, quantity of goods and packing requirements can affect the final cost. These figures are estimates."
+   ],
+   [
+     "q" => "Can you move my car or bike from Muzaffarpur?
+",
+     "a" => "Yes. Cars and bikes travel in open or enclosed carriers, strapped in with safety harnesses. Insurance can be added if you want it.
+"
+   ]
+   ];
+   
+
+
+
+
     }elseif (strtolower(trim($state)) === 'bihar') {
       $faqs = [
         [
