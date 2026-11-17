@@ -39,7 +39,7 @@ class Packers_movers extends MX_Controller
     { 
         $seo = array(
             "Purnia" => array(
-                "title" => "Purnia Packers and Movers | Call Us 93636 39191 ",
+                "title" => "Packers and Movers in Purnia | Make My Shift| Call Us 93636 39191 ",
                 "desc" => "Hire top-rated packers and movers in $city, $state. " . $this->comp['company3'] . " offers reliable household shifting and vehicle transport services at affordable rates."
             ),
              "Bhagalpur" => array(
@@ -49,6 +49,10 @@ class Packers_movers extends MX_Controller
             "Muzaffarpur" => array(
                 "title" => "Packers and Movers in Muzaffarpur | Make My Shift ",
                 "desc" => "Looking for best affordable Packers and Movers in Muzaffarpur? Make My Shift offers reliable home shifting,office relocation,car and bike transportation with professional packers and loading and safe delivery."
+            ),
+            "Katihar" => array(
+                "title" => "Packers and Movers in Katihar | Make My Shift| Call Us 93636 39191 ",
+                "desc" => "Hire top-rated packers and movers in $city, $state. " . $this->comp['company3'] . " offers reliable household shifting and vehicle transport services at affordable rates."
             ),
         );
         foreach ($seo as $k => $s) {
@@ -64,8 +68,9 @@ class Packers_movers extends MX_Controller
 
         // 10/10/2026
         return array (
-'title'=>"MakeMyShifiting packers and movers in $city| Packing And Moving Company | 93636 39191",
-
+// 'title'=>"MakeMyShifiting packers and movers in $city| Packing And Moving Company | 93636 39191",
+// puja 17 nov
+'title' => "Packers and Movers in $city | Make My Shift Packers and Movers ",
 "desc" => "MakeMyShifiting Packers and Movers is a trusted choice for packers and movers in $city, offering affordable home shifting, office relocation, car and bike transportation, professional packing, and secure storage services."
 
         );

@@ -4,33 +4,33 @@ $customer_reviews = [
 
     'purnia' => [
         [
-            'name'   => 'Rahul Kumar, Purnia, Bihar',
-            'review' => 'The team handled our household items carefully and completed the shifting without unnecessary delays.'
+            'name'   => 'Priya Sharma, Bangalore',
+            'review' => 'Excellent service! The team was professional, polite and handled all my belongings with great care. Highly recommended!'
         ],
         [
-            'name'   => 'Priya Singh, Purnia, Bihar',
-            'review' => 'Packing was done properly, especially for our glass and kitchen items. The team was also easy to coordinate with'
+            'name'   => 'Vikram Singh, Jaipur',
+            'review' => 'Shifted our 3BHK household goods with zero hassle. Excellent packing and very cooperative staff!'
         ],
         [
-            'name'   => 'Amit Sharma, Purnia, Bihar',
-            'review' => 'We moved our 2BHK to another city and the process was well organised from pickup to delivery.'
+            'name'   => 'Amit Verma, Delhi',
+            'review' => 'Best packing and moving experience! Prompt communication, safe vehicle transit and goods carefully handled for safe and secure delivery. Top-notch service!'
         ]
     ],
 
-    // 'gaya' => [
-    //     [
-    //         'name'   => 'Neha Singh',
-    //         'review' => 'The packing team was professional and handled our household items carefully.'
-    //     ],
-    //     [
-    //         'name'   => 'Ravi Kumar',
-    //         'review' => 'The shifting process was smooth and the team delivered our belongings safely.'
-    //     ],
-    //     [
-    //         'name'   => 'Ankit Sharma',
-    //         'review' => 'Good coordination throughout the move and the delivery was completed on time.'
-    //     ]
-    // ],
+    'katihar' => [
+        [
+            'name'   => 'Rahul Kumar, Katihar',
+            'review' => 'The team handled our household items carefully and completed the shifting without unnecessary delays.'
+        ],
+        [
+            'name'   => 'Priya Singh, Katihar',
+            'review' => 'Packing was done properly, especially for our glass and kitchen items. The team was also easy to coordinate with.'
+        ],
+        [
+            'name'   => 'Neha Verma, Katihar',
+            'review' => 'Our car transportation was handled as discussed, and the communication throughout the move was helpful.'
+        ]
+    ],
 
     'bhagalpur' => [
         [
@@ -105,10 +105,10 @@ $reviews = $customer_reviews[$city_key] ?? [];
                                     <?= html_escape($review['name']); ?>
                                 </h6>
 
-                                <small class="text-muted">
+                                <!-- <small class="text-muted">
                                     <?= html_escape($city); ?>,
                                     <?= html_escape($state); ?>
-                                </small>
+                                </small> -->
 
                             </div>
 

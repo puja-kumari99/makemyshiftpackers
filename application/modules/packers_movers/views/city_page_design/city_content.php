@@ -3,15 +3,15 @@ if (!defined('BASEPATH')) exit('No direct script access allowed');
 
 if (strtolower(trim($city)) === 'purnia') {
     $htmlcontent = "<h2>Packers and Movers in Purnia</h2>
-<p>Purnia sits at a crossroads, with NH 27 and NH 131A running through it and the city working as a rail and road gateway between Bihar, North Bengal, Northeast India and Nepal. A move here can mean a short shift across town or a long haul toward Kolkata or Delhi, and both need different handling. Make My Shift Packers has over 9 years in the packing and moving business, and runs its Bihar operations from its corporate office in Bhagalpur under director Alok Kumar Chaudhary.</p>
-<h3>About Make My Shift Packers and Movers Pvt. Ltd.</h3>
-<p><strong>Make My Shift is ISO 9001:2015 certified and IBA approved</strong>, and handles home and office relocation, car and bike transport, packing, loading, unloading and storage across India. Under the directorship of Alok Kumar Chaudhary, the company has built its experience over 9+ years by focusing on the practical side of a move, since a 2BHK family's needs, an office relocation and a vehicle transport job all call for different handling. That approach starts with proper planning, continues through careful handling at every stage, and stays on clear, constant communication with the customer. Its corporate office is at C/O Dr B.P Singh, Rani Chandrawati Hata Adampur Chowk, Bhagalpur, Bihar 812001. It has served 10,000+ customers, is rated 4.9/5, and has no separate Purnia branch, so moves here are coordinated from the Bihar team.</p>
+<p>Purnia is an important trading centre in the Seemanchal region of Bihar, with busy markets, hospital areas and road connections to nearby towns and other states. From household shifting around Line Bazar to longer moves from Gulabbagh or Maranga, the planning depends on the pickup location, vehicle access and distance. Make My Shift helps families and businesses relocate homes, offices, cars and bikes to and from Purnia. </p>
+<h3>About Make My Shift</h3>
+<p><strong>Make My Shift</strong> has been packing and moving for over 9 years, working from Bhagalpur in Bihar, with Alok Kumar Chaudhary as director. The company mainly handles home shifting and office shifting in Purnia, along with car and bike transportation for customers moving to other cities. Packing, loading and unloading are done by the team. Every move starts with a talk about what you have and where it's going, and the rest follows from that.</p>
 
 ";
   $htmlcontent1 = "<h3>Why Purnia Needs Local Planning</h3>
+<p>Purnia has different moving conditions across its neighbourhoods. Line Bazar has an important hospital area, while Bhatta Bazar is a busy market locality. Gulabbagh and Khuskibagh have busy wholesale markets, with goods vehicles moving through the area throughout the day. This can affect loading time and vehicle movement. These conditions help us decide the vehicle size and a suitable loading time.</p>
+<p>Before the move day, we check how wide the lane is, whether a truck can stop right outside the building, and how much there is to carry. We also ask where it's all going. During the monsoon, we also take weather conditions into account while planning packing and transportation.</p>
 
-<p>Line Bazar is Purnia's medical hub, home to Sadar Hospital and the Government Medical College, and its lanes stay busy with patients and visitors through the day. Gulabbagh, on the other hand, runs on trade. It hosts one of Asia's major maize trading centers and has grown into an automobile hub too, so heavy vehicle traffic around the mandi needs planning around.
-Rambagh is a residential part of the city, while Khuskibagh sits around Purnea Junction and the Purnea-Katihar road. Kasba, to the north, is a separate satellite town in the Purnia urban area   and usually needs its own vehicle plan rather than a shared one with the city core.</p>
 ";
     $htmlcontent2 = '<h3>Why Choose Make My Shift Packers and Movers in Purnia</h3>
 <ul>
@@ -28,23 +28,33 @@ Rambagh is a residential part of the city, while Khuskibagh sits around Purnea J
 ';
   
     $htmlcontent3 = '<h3>Where Does Our Purnia Team Provide Services</h3>
-<ul>
-<li>Line Bazar</li>
-<li>Gulabbagh</li>
-<li>Rambagh</li>
-<li>Khuskibagh</li>
-<li>Rani Nagar</li>
-<li>Shivaji Colony</li>
-<li>Pratap Nagar</li>
-<li>Pwd Colony</li>
-<li>Kasba</li>
-<li>Purnia Court area</li>
+<p>
+Line Bazar,
+Gulabbagh,
+Rambagh,
+Khuskibagh,
+Rani Nagar,
+Shivaji Colony,
+Pratap Nagar,
+Pwd Colony,
+Kasba,
+Purnia Court area
+</p><h3>Local Moving Experience in Purnia</h3>
+<h4>Line Bazar</h4>
+<p>Close to the hospitals and on the Purnia-Siliguri road, so timing matters. We keep loading short and tidy to avoid blocking the road.</p>
+<h4>Bhatta Bazar</h4>
+<p>A dense market and residential area. We choose vehicles that can reach the lane and carry the rest by hand where needed.</p>
+<h4>Rambagh</h4>
+<p>A newer housing area with larger homes. We pack bulky furniture and appliances with extra care.</p>
+<h4>Khuskibagh and Gulabbagh</h4>
+<p>Mandi areas with heavy truck movement, so we plan around busy hours.</p>
+<h4>Kasba</h4>
+<p>On the Purnia-Kasba road, a quieter stretch where family and shop shifting is usually smooth to plan.</p>
 
-</ul>
 ';
     $htmlcontent4 = "<h3>Recent Move</h3>
+<p>A 2BHK family moving from Line Bazar to Rambagh is a typical household relocation in Purnia. We pack the furniture, appliances and kitchen items room by room. Loading starts early, before the market rush builds up near Line Bazar, so the truck isn't stuck on the road. At Rambagh, the family stays at home while we unload, and each item goes to the room it belongs to.</p>
 
-<p>A household move from Rambagh went out with a 2BHK's worth of furniture, kitchen items and a few glass showpieces. The showpieces were wrapped in foam and kept apart from the rest of the load, and everything was unloaded without damage.</p>
 ";
     $htmlcontent5 = "<h3>Book Make My Shift Packers and Movers in Purnia</h3>
 
@@ -53,8 +63,72 @@ Rambagh is a residential part of the city, while Khuskibagh sits around Purnea J
     $htmlcontent6 = "
 ";
     $htmlcontent7 = '';
+}elseif (strtolower(trim($city)) === 'katihar') {
+    $htmlcontent = "<h2>Packers and Movers in Katihar</h2>
+<p><a href='https://en.wikipedia.org/wiki/Katihar'>Katihar </a>  sits in north-east Bihar and has been a rail and road junction for well over a century. Katihar Junction on Station Road is the heart of the city, and Shaheed Chowk is its busiest market square. The town was once known as the jute capital of Bihar, and Katihar was the state's largest maize-producing district in 2021–22. Purnia is about 30 km away. If you are searching for <strong>packers and movers near me in Katihar</strong>, Make My Shift plans every relocation around Katihar's local roads, neighbourhoods and access conditions.</p>
 
+    ";
 
+    $htmlcontent1="<h3>About Make My Shift Packers and Movers</h3>
+<p>Make My Shift Packers and Movers Pvt. Ltd. is led by Director Alok Kumar Chaudhary and is headquartered in Bhagalpur, Bihar. With 9+ years in packing and moving, the team provides packing and moving services in Katihar and across India, covering house shifting, office relocation, car and bike transport, loading and unloading. The company is ISO 9001:2015 certified, a member of the Movers Federation of India, and was recognised at the federation’s national conference in Bhopal in April 2025. </p>
+";
+$htmlcontent2="
+ <h3>Why Choose Make My Shift Movers and Packers in Katihar</h3>
+<ul>
+<li>9+ years in packing and moving</li>
+<li>ISO 9001:2015 certified</li>
+<li>IBA approved</li>
+<li>GST registered and Udyam registered</li>
+<li>Trade and logistics licence holder</li>
+<li>Member of the Movers Federation of India</li>
+<li>Recognised at the Movers Federation of India’s 8th National Conference in Bhopal, April 2025</li>
+<li>Jagran Icon Award (Bihar) recognition</li>
+<li>10,000+ happy customers with a 4.9 out of 5 rating</li>
+<li>Five-layer protective packing</li>
+<li>Real-time tracking during transit</li>
+<li>Transit insurance options</li>
+<li>Cars and bikes moved in open or enclosed carriers with safety harnesses</li>
+<li>Clear pricing with no hidden charges</li>
+<li>24/7 customer support</li>
+";
+$htmlcontent3="<h3>Why Katihar Needs Local Planning</h3>
+<p>Moving conditions here shift with the season and the street. Rain from June to September slows loading, and several rivers in and around the district swell during the monsoon. Proper covering and flexible scheduling help protect goods during this period. The busy market areas around the station and Shaheed Chowk can keep a truck from stopping at your door. Chhath, Diwali and Durga Puja fill roads and trains, so book early near those dates. We check access, parking and floors before the truck leaves.</p>
+<h3>Where Does Our Team Provide Services in Katihar</h3>
+<p>Our crews provide house shifting services in Katihar and handle office moves across the city, from Station Road and Gami Tola to Shaheed Chowk, Vijaynagar and the Collectorate side. Beyond the city we cover the Katihar Medical College area and the blocks of Hasanganj, Korha, Falka, Barari, Pranpur and Amdabad. Barsoi, Manihari and Kursela are served too.</p>
+";
+$htmlcontent4="<h3>Recent Move</h3>
+<p>Our team recently handled a household move from Gami Tola to the Katihar Medical College area. The packers and movers carefully packed furniture, appliances and household goods, then loaded and transported them safely to the new home.</p>
+";
+$htmlcontent5="<h3>Local Moving Experience in Katihar</h3>
+<h4>Station Road and Gami Tola</h4>
+<p>Roads near the junction stay busy, so we load early and keep the truck moving instead of parked.</p>
+<h4>Shaheed Chowk</h4>
+<p>As the busiest market square, it needs short loading windows and, where the truck can't reach, a smaller carrier for the last stretch.</p>
+<h4>Vijaynagar and the Collectorate Side</h4>
+<p>We confirm lift access, parking and loading arrangements in advance for office shifting.</p>
+<h4>Katihar Medical College Area</h4>
+<p>It sits on the outskirts, so we allow extra travel time from the main city.</p>
+<h3>Short-Distance Routes</h3>
+<h4>Within Katihar</h4>
+<p>Local shifting inside the city usually finishes within a few hours or the same day.</p>
+<h4>Nearby Cities</h4>
+<p>Purnia, about 30 km away, is an easy run, and Barsoi, Manihari, Kursela and Hasanganj are regular drops as well.</p>
+<h4>Regional Routes</h4>
+<p>Bhagalpur, Araria, Khagaria and Saharsa lie within Bihar, while Malda and Siliguri are across the border in West Bengal. Routes to Bhagalpur usually cross the Ganga by bridge, so we leave extra time.</p>
+<h3>Far-Away Routes From Katihar</h3>
+<span class='fw-bold'>North India</span>
+<p>We handle Delhi NCR, Lucknow, Varanasi, Gorakhpur and Prayagraj.</p>
+<span class='fw-bold'>West India</span>
+<p>Mumbai, Pune, Nagpur, Jaipur, Ahmedabad and Surat are on our western list.</p>
+<span class='fw-bold'>South India</span>
+<p>Bengaluru and Hyderabad are the main southern runs.</p>
+<span class='fw-bold'>East India</span>
+<p>Kolkata, Durgapur, Bhubaneswar, Ranchi, Jamshedpur and Guwahati make up the east. Long-distance moves generally take 2 to 5 days.</p>
+
+<h4>Book Make My Shift Packers and Movers in Katihar</h4>
+<p><strong>Call +91 7209532593</strong> for a free quote on house shifting, office shifting or vehicle transport in Katihar. You can also <strong>WhatsApp +917209532593 or email makemyshiftmovers@gmail.com.</strong> </p>
+
+";
 }elseif (strtolower(trim($city)) === 'bhagalpur') {
     $htmlcontent = "<h2>Packers and Movers in Bhagalpur</h2>
     <p>Bhagalpur sits on the southern bank of the Ganga, and its busy market lanes, the university area and the newer colonies all spread out from the river. Make My Shift runs its corporate office here at Adampur Chowk, so Bhagalpur is our home city. We have over 9 years of experience in packing and moving, and we know the roads, the lanes and the timings of this city well.</p>

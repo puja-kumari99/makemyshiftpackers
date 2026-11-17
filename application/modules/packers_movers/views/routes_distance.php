@@ -177,7 +177,7 @@ if (isset($city_moving_data[$current_city])) {
     <div class="container">
 
         <div class="text-center mb-4">
-            <h3>Local Moving Experience in <?php echo htmlspecialchars($city_data['city_name']); ?></h3>
+            <h3 class="text-white">Local Moving Experience in <?php echo htmlspecialchars($city_data['city_name']); ?></h3>
         </div>
 
         <div class="row g-4">
@@ -225,7 +225,7 @@ if (isset($city_moving_data[$current_city])) {
     <div class="container">
 
         <div class="text-center mb-4">
-            <h3>Short-Distance Routes From <?php echo htmlspecialchars($city_data['city_name']); ?></h3>
+            <h3 class="text-white">Short-Distance Routes From <?php echo htmlspecialchars($city_data['city_name']); ?></h3>
         </div>
 
         <div class="row g-4">
@@ -281,7 +281,7 @@ if (isset($city_moving_data[$current_city])) {
     <div class="container">
 
         <div class="text-center mb-4">
-            <h3>Long-Distance Routes From <?php echo htmlspecialchars($city_data['city_name']); ?></h3>
+            <h3 class="text-white">Long-Distance Routes From <?php echo htmlspecialchars($city_data['city_name']); ?></h3>
         </div>
 
         <div class="row g-4">

@@ -14,30 +14,65 @@
     if (strtolower(trim($city)) === 'purnia') {
       $faqs = [
         [
-          "q" => "Do you handle moves in and around Line Bazar?",
-          "a" => "Yes, including moves for patients' families and hospital staff shifting near Sadar Hospital and the Medical College, timed to avoid the busiest hospital hours."
+          "q" => "Do you handle shifting within Purnia, like Line Bazar to Rambagh?",
+          "a" => "Local moves inside the city are routine for us. A 1 or 2 BHK shift between areas like Line Bazar, Madhubani Bazar and Rambagh can often be completed within a few hours. Moves to nearby places like Kasba depend on the distance and access conditions."
         ],
         [
-          "q" => "Can you manage a shift out of Gulabbagh with mandi traffic nearby?
+          "q" => "Can you work in crowded areas like Bhatta Bazar and Khuskibagh?
+
 ",
-          "a" => "Yes, vehicle timing around Gulabbagh is planned around market and highway traffic on NH 27 and NH 231."
+          "a" => "It's something we plan around. A truck that can't get into a narrow Bhatta Bazar lane is no use, so the vehicle size and the loading time are decided before the move day. Early mornings are usually the easiest, before the market fills up."
         ],
         [
-          "q" => "Do you serve residential areas like Rambagh and Khuskibagh?",
-          "a" => "Yes, both are covered, and lane width near these localities is checked before the vehicle is confirmed."
+          "q" => "Do you move shops and offices in Purnia?",
+          "a" => "Yes, offices and shops both. A shop in Bhatta Bazar, a clinic near Line Bazar or a small office in Madhubani Bazar, we plan all of them. Tell us when you close for the day. A Sunday or late evening shift means you lose no business hours."
         ],
         [
-          "q" => "Do you handle moves to or from Kasba?
+          "q" => "Can you move my car or bike from Purnia to another city?
 ",
-          "a" => "Yes, Kasba is served as its own stop, with the vehicle and route planned separately from city-core moves."
+          "a" => "Yes. If you're leaving Purnia, your car or bike can go with the household load or on its own. The pickup is from your door, whether that's Rambagh, Kasba or Ranipatra. On the carrier it's tied down with safety harnesses."
         ],
         [
-          "q" => "
-What does a local shift within Purnia typically cost?
-",
-          "a" => "A rough guide is Rs. 3,500-6,500  for a 1BHK, Rs. 6,000-10,000 for a 2BHK and Rs. 9,000-15,000 for a 3BHK, though the final cost depends on the goods, floor and distance."
-        ]
+          "q" => "How long does a move from Purnia to a distant city take?",
+          "a" => "Expect 2 to 5 days if you're shifting from Kasba or Rambagh to Delhi, Mumbai or Bangalore. It can move a little either way, since the route, vehicle availability and the transport schedule all play a part. We confirm the expected delivery date at the time of booking."
+        ],
+        [
+          "q" => "Is transit insurance available for moves from Purnia?",
+          "a" => "Yes, options are there. What gets covered depends on the policy, so ask about your TV, fridge and other costly items before you book. If you're moving far from Line Bazar or Khuskibagh, take photos before packing and keep the bills with you.
+"
+        ],
+        
+   
       ];
+       } elseif (strtolower(trim($city)) === 'katihar') {
+        $faqs = [
+          [
+            "q" => "How early should I book packers and movers in Katihar?",
+
+            "a" => "A few days ahead works for most moves. Near Chhath, Diwali or Durga Puja, book well in advance because roads and trains fill up.
+
+"
+          ],
+          [
+            "q" => "Can monsoon rain affect a move from Station Road or Hasanganj?",
+            "a" => "Yes. Rain from June to September slows loading and can put some roads under water, so we cover goods well, and a spare day helps."
+          ],
+          [
+            "q" => "Do you work as local packers and movers near me in Barsoi, Manihari or Kursela?
+",
+            "a" => "Yes. We move from those towns too, and we send a smaller vehicle when access is tight."
+          ],
+          [
+            "q" => "How long does a move from Katihar take?",
+            "a" => "A local move usually finishes within a few hours or the same day. Long-distance moves generally take 2 to 5 days.
+"
+          ],
+          [
+            "q" => "Do you offer car and bike transport from Katihar?",
+            "a" => "Yes, in open or enclosed carriers fitted with safety harnesses."
+          ]
+        ];
+ 
     } elseif (strtolower(trim($city)) === 'bhagalpur') {
         $faqs = [
           [
