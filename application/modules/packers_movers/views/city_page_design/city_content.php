@@ -2,7 +2,7 @@
 if (!defined('BASEPATH')) exit('No direct script access allowed');
 
 if (strtolower(trim($city)) === 'purnia') {
-    $htmlcontent = "<h2>Packers and Movers in Purnia</h2>
+    $htmlcontent = "<h2>Make My Shift Packers and Movers in Purnia</h2>
 <p>Purnia is an important trading centre in the Seemanchal region of Bihar, with busy markets, hospital areas and road connections to nearby towns and other states. From household shifting around Line Bazar to longer moves from Gulabbagh or Maranga, the planning depends on the pickup location, vehicle access and distance. Make My Shift helps families and businesses relocate homes, offices, cars and bikes to and from Purnia. </p>
 <h3>About Make My Shift</h3>
 <p><strong>Make My Shift</strong> has been packing and moving for over 9 years, working from Bhagalpur in Bihar, with Alok Kumar Chaudhary as director. The company mainly handles home shifting and office shifting in Purnia, along with car and bike transportation for customers moving to other cities. Packing, loading and unloading are done by the team. Every move starts with a talk about what you have and where it's going, and the rest follows from that.</p>
@@ -64,7 +64,7 @@ Purnia Court area
 ";
     $htmlcontent7 = '';
 }elseif (strtolower(trim($city)) === 'katihar') {
-    $htmlcontent = "<h2>Packers and Movers in Katihar</h2>
+    $htmlcontent = "<h2>Make My Shift Packers and Movers in Katihar</h2>
 <p><a href='https://en.wikipedia.org/wiki/Katihar'>Katihar </a>  sits in north-east Bihar and has been a rail and road junction for well over a century. Katihar Junction on Station Road is the heart of the city, and Shaheed Chowk is its busiest market square. The town was once known as the jute capital of Bihar, and Katihar was the state's largest maize-producing district in 2021–22. Purnia is about 30 km away. If you are searching for <strong>packers and movers near me in Katihar</strong>, Make My Shift plans every relocation around Katihar's local roads, neighbourhoods and access conditions.</p>
 
     ";
@@ -130,7 +130,7 @@ $htmlcontent5="<h3>Local Moving Experience in Katihar</h3>
 
 ";
 }elseif (strtolower(trim($city)) === 'samastipur') {
-    $htmlcontent = "<h2>Packers and Movers in Samastipur</h2>
+    $htmlcontent = "<h2>Make My Shift Packers and Movers in Samastipur</h2>
 <p>Samastipur sits on the Burhi Gandak and serves as the district headquarters. <a href='https://invapiswc2.bihar.gov.in/district/Samastipur.pdf?utm_' target='_blank' rel='noopener noreferrer' style='color: inherit; text-decoration: none; font-weight: bold;'>Samastipur Junction is one of the busiest railway stations in North Bihar</a>, after Patna and Katihar. NH 322 connects Samastipur with Hajipur, making road access important for local and outstation moves. The town isn't one single pattern. There's a busy centre around the station and the Collectorate, residential pockets around Mohanpur and Tajpur Road, and a wide rural belt beyond that, with Pusa about 20 km to the west. A move can look very different depending on which of these you're leaving. So we plan every Samastipur move around the actual pickup address, not around a standard template. Make My Shift handles these moves from its corporate office in Bhagalpur, with 9+ years in packing and moving.</p>
     ";
 
@@ -282,7 +282,7 @@ Email: makemyshiftmovers@gmail.com</strong></p>
 
 ";
 }elseif (strtolower(trim($city)) === 'bhagalpur') {
-    $htmlcontent = "<h2>Packers and Movers in Bhagalpur</h2>
+    $htmlcontent = "<h2> Make My Shift Packers and Movers in Bhagalpur</h2>
     <p>Bhagalpur sits on the southern bank of the Ganga, and its busy market lanes, the university area and the newer colonies all spread out from the river. Make My Shift runs its corporate office here at Adampur Chowk, so Bhagalpur is our home city. We have over 9 years of experience in packing and moving, and we know the roads, the lanes and the timings of this city well.</p>
     ";
 $htmlcontent1="<h3>About Make My Shift Packers and Movers Pvt. Ltd.</h3>
@@ -615,7 +615,7 @@ $htmlcontent8 ="<h4>Short Trips Out of Muzaffarpur</h4>
 
 
 }elseif (strtolower(trim($state)) === 'bihar') {
-  $htmlcontent = "<h2>Packers and Movers in $city, Bihar</h2>
+  $htmlcontent = "<h2>Make My Shift Packers and Movers in $city, Bihar</h2>
 <p>
 What your move from $city looks like depends on what you're shifting. Maybe it's just a few household things going across town. Or maybe it's a whole home, an office, or a car going to another state. Distance, how much you have, packing needs, building access, and the type of items all shape the plan.
 

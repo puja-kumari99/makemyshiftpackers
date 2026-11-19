@@ -31,7 +31,7 @@
 
         <!-- Main Headline -->
         <h1 class="hero-main-title" itemprop="headline">
-          BEST PACKERS &amp; MOVERS IN
+         PACKERS &amp; MOVERS IN
           <span class="text-brand-red"><?= strtoupper(htmlspecialchars($city)) ?></span>
         </h1>
 
