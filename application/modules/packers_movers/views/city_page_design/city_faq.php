@@ -72,6 +72,37 @@
             "a" => "Yes, in open or enclosed carriers fitted with safety harnesses."
           ]
         ];
+   } elseif (strtolower(trim($city)) === 'samastipur') {
+        $faqs = [
+          [
+            "q" => "Can monsoon waterlogging near Tajpur Road or Mohanpur slow down a move from Samastipur?
+",
+
+            "a" => "It can. Heavy rain may leave some stretches under water, and loading gets slower in the wet. Booking a little early and covering your goods well usually helps.
+.
+
+"
+          ],
+          [
+            "q" => "Can high river levels around Hakimabad or Mohiuddinagar affect my move?",
+            "a" => "They might. The Burhi Gandak and the Ganga both rise in the monsoon, and some roads can be affected. Tell us your pickup and drop points, and we'll check the route before the truck leaves."
+          ],
+          [
+            "q" => "Does crossing the Ganga add time on a move from Samastipur to Patna?
+",
+            "a" => "It may. A queue can build up near the bridge approach on busy days. Keeping some slack in the schedule tends to save a lot of worry."
+          ],
+          [
+            "q" => "How long does a move from Samastipur take?",
+            "a" => "A local move is usually done within a few hours or by the end of the day. Long-distance moves generally take 2 to 5 days, depending on how far you're going. Chhath and Diwali can fill up slots quickly, so book early if your date is close..
+"
+          ],
+          [
+            "q" => "Can I send my car or bike from Samastipur?",
+            "a" => "Yes. We carry cars and bikes in open or enclosed carriers, and the vehicles are secured with safety harnesses.
+"
+          ]
+        ];
  
     } elseif (strtolower(trim($city)) === 'bhagalpur') {
         $faqs = [

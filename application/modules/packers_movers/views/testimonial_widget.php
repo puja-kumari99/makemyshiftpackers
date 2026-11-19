@@ -31,6 +31,21 @@ $customer_reviews = [
             'review' => 'Our car transportation was handled as discussed, and the communication throughout the move was helpful.'
         ]
     ],
+       'samastipur' => [
+        [
+            'name'   => 'Shubham Verma, Samastipur',
+            'review' => 'The team handled our household items carefully and completed the shifting without unnecessary delays.'
+        ],
+        [
+            'name'   => 'Aditi kumari, Samastipur',
+            'review' => 'Packing was done properly, especially for our glass and kitchen items. The team was also easy to coordinate with.'
+        ],
+        [
+            'name'   => 'Neha Verma, Samastipur',
+            'review' => 'We moved our 2BHK to another city and the process was well organised from pickup to delivery'
+        ]
+    ],
+
 
     'bhagalpur' => [
         [

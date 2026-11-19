@@ -129,6 +129,158 @@ $htmlcontent5="<h3>Local Moving Experience in Katihar</h3>
 <p><strong>Call +91 7209532593</strong> for a free quote on house shifting, office shifting or vehicle transport in Katihar. You can also <strong>WhatsApp +917209532593 or email makemyshiftmovers@gmail.com.</strong> </p>
 
 ";
+}elseif (strtolower(trim($city)) === 'samastipur') {
+    $htmlcontent = "<h2>Packers and Movers in Samastipur</h2>
+<p>Samastipur sits on the Burhi Gandak and serves as the district headquarters. <a href='https://invapiswc2.bihar.gov.in/district/Samastipur.pdf?utm_' target='_blank' rel='noopener noreferrer' style='color: inherit; text-decoration: none; font-weight: bold;'>Samastipur Junction is one of the busiest railway stations in North Bihar</a>, after Patna and Katihar. NH 322 connects Samastipur with Hajipur, making road access important for local and outstation moves. The town isn't one single pattern. There's a busy centre around the station and the Collectorate, residential pockets around Mohanpur and Tajpur Road, and a wide rural belt beyond that, with Pusa about 20 km to the west. A move can look very different depending on which of these you're leaving. So we plan every Samastipur move around the actual pickup address, not around a standard template. Make My Shift handles these moves from its corporate office in Bhagalpur, with 9+ years in packing and moving.</p>
+    ";
+
+    $htmlcontent1="<h3>Make My Shift: Samastipur Moves, Planned From Bhagalpur</h3>
+<p>Make My Shift Packers and Movers Pvt. Ltd. handles home relocation, office shifting, car and bike transportation, local and interstate moves, packing, loading and unloading. Our company is led by Director Alok Kumar Chaudhary.</p>
+<p><strong>Our corporate office is at C/O Dr B.P Singh, Rani Chandrawati Hata Adampur Chowk, in front of Dr. R Bakhla Building, Swami Vivekanand Path, Bhagalpur, Bihar 812001</strong>.</p>
+<p>We're ISO 9001:2015 certified, IBA approved, GST registered and Udyam registered, with a 4.9/5 customer rating.</p>
+
+";
+$htmlcontent2="
+<h3>Why Samastipur Families and Offices Pick Make My Shift</h3>
+<ul>
+<li>9+ years of experience in packing and moving</li>
+<li>ISO 9001:2015 certified</li>
+<li>IBA approved, GST registered, Udyam registered and a trade and logistics licence holder</li>
+<li>Member of the Movers Federation of India</li>
+<li>Jagran Icon Award (Bihar) recognition</li>
+<li>10,000+ happy customers and a 4.9/5 rating</li>
+<li>Premium multilayer packing for furniture, appliances and fragile items</li>
+<li>Real-time updates during transit</li>
+<li>Transit insurance options, with terms explained before you book</li>
+<li>Cars and bikes carried in open or enclosed carriers with safety harnesses</li>
+<li>Clear pricing with no hidden charges</li>
+<li>24/7 customer support</li>
+</ul>
+
+";
+$htmlcontent3="<div class='pm-samastipur-guide'>
+<h3>Samastipur Localities and Towns We Cover</h3>
+<p><a href='https://invapiswc2.bihar.gov.in/district/Samastipur.pdf?utm_' target='_blank' rel='noopener noreferrer' style='color: inherit; text-decoration: none; font-weight: bold;'>Samastipur city and the area around Samastipur Junction</a></p>
+<p>Mohanpur
+Tajpur Road,
+Hakimabad,
+Nagarbasti,
+Jitwarpur,
+Musrigharari,
+Tajpur,
+Pusa,
+Dalsinghsarai,
+Rosera,
+Shahpur Patori,<br>
+Mohiuddinagar,
+Ujiarpur,
+Kalyanpur,
+Warisnagar,
+Khanpur,
+Sarairanjan,
+Morwa</p>
+
+<h3>What Moving Feels Like Across Samastipur</h3>
+<h4>Mohanpur</h4>
+<p>Mohanpur has residential areas and routes connecting to other parts of the block. We confirm the pickup location and road access before sending the moving vehicle, particularly during the monsoon.</p>
+<h4>Tajpur Road</h4>
+<p>Home to colleges, a hospital belt and several colonies. After heavy rain some stretches might hold water, so we often fix the loading slot once the weather looks clear.</p>
+<h4>Hakimabad and Nagarbasti</h4>
+<p>Hakimabad and Nagarbasti lie around the Burhi Gandak, where a bridge connection is being developed. We check the available crossing and road conditions before choosing the route for the moving vehicle.</p>
+<h4>Pusa</h4>
+<p>Roughly 20 km west of Samastipur city, Pusa is home to Dr. Rajendra Prasad Central Agricultural University. For campus-side moves, we check building access, loading space and the volume of goods before selecting a suitable vehicle.</p>
+<h4>Dalsinghsarai and Rosera</h4>
+<p>Subdivision towns with their own nagar parishads and sub-district hospitals. We plan these as short-distance runs from Samastipur.</p>
+<h4>Mohiuddinagar</h4>
+<p>The Ganga and Baya rivers affect parts of this block, and water levels can rise during the monsoon. If you're moving here during rain, tell us early so we can check conditions.</p>
+
+<h3>Short Runs From Samastipur</h3>
+<h4>Inside Samastipur</h4>
+<ul>
+<li>Mohanpur to Tajpur Road</li>
+<li>Near the junction to Mohanpur</li>
+<li>Hakimabad to Tajpur Road</li>
+<li>Jitwarpur to Mohanpur</li>
+</ul>
+<h4>Nearby Towns and Cities</h4>
+<ul>
+<li>Darbhanga</li>
+<li>Muzaffarpur</li>
+<li>Hajipur</li>
+<li>Begusarai</li>
+<li>Barauni</li>
+<li>Sitamarhi</li>
+<li>Madhubani</li>
+</ul>
+<h4>Regional Routes</h4>
+<ul>
+<li>Patna</li>
+<li>Bhagalpur</li>
+<li>Khagaria</li>
+<li>Saharsa</li>
+<li>Purnia</li>
+<li>Araria</li>
+<li>Amarpur</li>
+<li>Gaya</li>
+</ul>
+<h3>Far-Away Routes From Samastipur</h3>
+<h4>North India</h4>
+<ul>
+<li>Delhi</li>
+<li>Noida</li>
+<li>Gurugram</li>
+<li>Lucknow</li>
+<li>Varanasi</li>
+<li>Gorakhpur</li>
+<li>Prayagraj</li>
+<li>Jaipur</li>
+</ul>
+<h4>West India</h4>
+<ul>
+<li>Mumbai</li>
+<li>Pune</li>
+<li>Nagpur</li>
+<li>Ahmedabad</li>
+<li>Surat</li>
+</ul>
+<h4>South India</h4>
+<ul>
+<li>Bengaluru</li>
+<li>Hyderabad</li>
+</ul>
+<h4>East India</h4>
+<ul>
+<li>Kolkata</li>
+<li>Siliguri</li>
+<li>Durgapur</li>
+<li>Ranchi</li>
+<li>Jamshedpur</li>
+<li>Dhanbad</li>
+<li>Bokaro</li>
+<li>Bhubaneswar</li>
+<li>Cuttack</li>
+<li>Guwahati</li>
+</ul>
+
+<h3>Reading Samastipur Before the Truck Arrives</h3>
+<p>Start with the older, central parts of town near the station and the Collectorate. They can get crowded, and a big truck may not always stop right outside the door. Residential areas around Mohanpur and Tajpur Road have their own access and weather-related challenges. Local reports have highlighted waterlogging in Professor Colony near Tajpur Road, where railway overbridge construction affected the drainage flow. So does a wet day change your plan? Sometimes it does. A quick look at the lane and the weather now beats a long wait on moving day.</p>
+<p>Then there are the office and institutional pockets. Mohanpur has automobile showrooms and service centres, while Tajpur Road has healthcare and educational facilities, including AHS Global Hospital and AHS Nursing College. Government offices around the Collectorate and railway establishments also create relocation requirements for employees and offices. And out at Pusa, the Dr. Rajendra Prasad Central Agricultural University campus brings staff and student moves. Equipment, files and vehicles each need different handling. So we ask a few questions first: what's moving, where from, and how does the truck reach it?</p>
+
+</div>
+";
+$htmlcontent4="<h4>A Recent Move Near Mohanpur</h4>
+<p>A family in Mohanpur was shifting a 2BHK to Patna. Their worry was simple: the glass and kitchen items. We packed those layer by layer, loaded the heavy furniture first, and checked the route before the truck left. Depending on the route, a move to Patna may involve crossing the Ganga, so we allowed extra time for bridge traffic. The family tracked the move on their phone, and the goods were unloaded at the new flat on the scheduled day.</p>
+
+";
+$htmlcontent5="
+<h4>Book Make My Shift in Samastipur</h4>
+<p>Shifting somewhere in Samastipur or leaving Bihar? Just tell us where you're starting, where you're headed, and roughly how much you're moving. We'll send you a quote.
+<strong>Call  +917209532593
+WhatsApp  +917209532593
+Email: makemyshiftmovers@gmail.com</strong></p>
+
+
+";
 }elseif (strtolower(trim($city)) === 'bhagalpur') {
     $htmlcontent = "<h2>Packers and Movers in Bhagalpur</h2>
     <p>Bhagalpur sits on the southern bank of the Ganga, and its busy market lanes, the university area and the newer colonies all spread out from the river. Make My Shift runs its corporate office here at Adampur Chowk, so Bhagalpur is our home city. We have over 9 years of experience in packing and moving, and we know the roads, the lanes and the timings of this city well.</p>
