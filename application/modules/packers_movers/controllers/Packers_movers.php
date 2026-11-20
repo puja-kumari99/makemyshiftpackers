@@ -51,11 +51,11 @@ class Packers_movers extends MX_Controller
                 "desc" => "Looking for best affordable Packers and Movers in Muzaffarpur? Make My Shift offers reliable home shifting,office relocation,car and bike transportation with professional packers and loading and safe delivery."
             ),
             "Katihar" => array(
-                "title" => "Best Packers and Movers in Katihar | Call Us 93636 39191 ",
+                "title" => "Packers and Movers in Katihar, Bihar | Make My Shift ",
                 "desc" => "Hire top-rated packers and movers in $city, $state. " . $this->comp['company3'] . " offers reliable household shifting and vehicle transport services at affordable rates."
             ),
             "Samastipur" => array(
-                "title" => "Packers and Movers in Samastipur | Make My Shift| Call Us 93636 39191 ",
+                "title" => "Packers and Movers in Samastipur, Bihar | Make My Shift ",
                 "desc" => "Hire top-rated packers and movers in $city, $state. " . $this->comp['company3'] . " offers reliable household shifting and vehicle transport services at affordable rates."
             ),
         );
